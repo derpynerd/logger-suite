@@ -17,3 +17,5 @@ Lore > Sublore > Topic
 - Runner runs the file after loading all the configurations
 - IO handles all the formatting and querying functions
 - Model stores all the Topics in the above-mentioned hierarchy
+
+### Disclaimer - This project is a work in progress (WIP)
